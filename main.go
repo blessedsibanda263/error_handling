@@ -9,4 +9,6 @@ func main() {
 	examples.ReturningAnError()
 	fmt.Println()
 	examples.ErrorVariables()
+	fmt.Println()
+	examples.WrappingErrors()
 }
